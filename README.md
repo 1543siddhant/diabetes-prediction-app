@@ -34,7 +34,8 @@ Model Persistence:
 
 Once the optimal model is trained and evaluated, it is serialized and saved to disk using the pickle module. Serialization allows the trained model to be stored in a binary format, making it easy to reload and reuse the model for future predictions without having to retrain it from scratch.
 
-How to Use:
+## How To Use :
+
 Clone the repository to your local machine.
 Install the necessary dependencies listed in the requirements.txt file.
 Run the Streamlit web application using the command streamlit run app.py.
