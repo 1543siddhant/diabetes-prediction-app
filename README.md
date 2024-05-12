@@ -11,6 +11,13 @@ Diabetes is a prevalent health condition affecting millions worldwide. Early det
 ## Data Set 
 This dataset is originally from the National Institute of Diabetes and Digestive and Kidney Diseases. The objective of the dataset is to diagnostically predict whether or not a patient has diabetes, based on certain diagnostic measurements included in the dataset. Several constraints were placed on the selection of these instances from a larger database. In particular, all patients here are females at least 21 years old of Pima Indian heritage.
 
+## Dependencies
+
+- [![Python Version](https://img.shields.io/badge/python-3.7%2B-blue)](https://www.python.org/downloads/release/python-370/)
+- [![Scikit-learn Version](https://img.shields.io/badge/scikit--learn-0.24.1-orange)](https://scikit-learn.org/stable/)
+- [![Seaborn Version](https://img.shields.io/badge/seaborn-0.11.1-brightgreen)](https://seaborn.pydata.org/)
+- [![Streamlit Version](https://img.shields.io/badge/streamlit-0.87.0-red)](https://www.streamlit.io/)
+- 
 ## Acknowledgements
 Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 
