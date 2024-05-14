@@ -19,6 +19,7 @@ This dataset is originally from the National Institute of Diabetes and Digestive
 - [![Streamlit Version](https://img.shields.io/badge/streamlit-0.87.0-red)](https://www.streamlit.io/)
 - [![Pandas Version](https://img.shields.io/badge/pandas-1.4.2-purple)](https://pandas.pydata.org/)
 - [![NumPy Version](https://img.shields.io/badge/numpy-1.22.3-blue)](https://numpy.org/)
+- [![Matplotlib Version](https://img.shields.io/badge/matplotlib-3.5.2-orange)](https://matplotlib.org/)
 ## Acknowledgements
 Smith, J.W., Everhart, J.E., Dickson, W.C., Knowler, W.C., & Johannes, R.S. (1988). Using the ADAP learning algorithm to forecast the onset of diabetes mellitus. In Proceedings of the Symposium on Computer Applications and Medical Care (pp. 261--265). IEEE Computer Society Press.
 
